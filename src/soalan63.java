@@ -37,5 +37,6 @@ public static void main(String[] args){
          }
          System.out.println("Anda mempunyai berat badan yang "+Ulasan );
          System.out.println("jaga kesihatan anda" );
+         System.out.println("jaga kesihatan anda" );
     }
 }
